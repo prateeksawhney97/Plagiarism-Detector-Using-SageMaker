@@ -1,5 +1,7 @@
 # Plagiarism Project, Machine Learning Deployment
 
+Second project of the Udacity Machine Learning Engineer Nanodegree program where a Plagiarism Detector is created using custom similarity features amongst source and answer file such as containment and longest common subsequence. Further,  trained and deployed the model on Amazon Sagemaker.
+
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
 ## Project Overview
